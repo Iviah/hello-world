@@ -1,6 +1,5 @@
 # hello-world
 
-Hi, Iviah here. Im a beginner of this course. I love food and cute things and most of all I love to explore more things 
+Welcome to the second Branch of hello world!!
 
-
-Next part is the Step 4 (https://guides.github.com/activities/hello-world/) before learning in edx online.
+Nice to meet all of you :)
